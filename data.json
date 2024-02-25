@@ -1,0 +1,496 @@
+{
+  "featuredCards": [
+    {
+      "image": "https://images.pexels.com/photos/261045/pexels-photo-261045.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "With swimming pool",
+      "noOfProperties": "32 Properties",
+      "link": ""
+    },
+    {
+      "image": "https://images.pexels.com/photos/5570224/pexels-photo-5570224.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Cozy Houses",
+      "noOfProperties": "54 Properties",
+      "link": ""
+    },
+    {
+      "image": "https://images.pexels.com/photos/8082559/pexels-photo-8082559.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Studio Apartments",
+      "noOfProperties": "32 Properties",
+      "link": ""
+    },
+    {
+      "image": "https://images.pexels.com/photos/205342/pexels-photo-205342.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Luzury Houses",
+      "noOfProperties": "19 Properties",
+      "link": ""
+    }
+  ],
+  "recentProperties": [
+    {
+      "id": 1,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-05-370x250.jpg",
+      "name": "AVA Nob Hill",
+      "price": "$1199.00/mon",
+      "size": "1200 sq ft.",
+      "bdrms": "4 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "AVA Nob Hill includes studios and 1 and 2 bedroom apartments that feature an urban-inspired design that extends beyond your walls and throughout the entire community."
+    },
+    {
+      "id": 2,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-06-370x250.jpg",
+      "name": "Ashton San Francisco",
+      "price": "$1595.00/mon",
+      "size": "1200 sq ft.",
+      "bdrms": "2 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Ashton San Francisco offers luxury apartments, eco-friendly features, and remarkable on-site resident amenities. Enjoy premier services and access to our state-of-the-art fitness center, clubhouse, business center, and outdoor fire pit lounge."
+    },
+    {
+      "id": 3,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-07-370x250.jpg",
+      "name": "The Presidio Residences",
+      "price": "$2699.00/mon",
+      "size": "2200 sq ft.",
+      "bdrms": "4 bedrooms",
+      "bthrms": "3 bathrooms",
+      "description": "The Presidio Residences offer a unique opportunity to live in a national park setting and enjoy quiet neighborhoods, convenient location, beautiful open spaces, and outstanding recreational amenities."
+    },
+    {
+      "id": 4,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-08-370x250.jpg",
+      "name": "Alchemy by Alta",
+      "price": "$1190.00/mon",
+      "size": "2200 sq ft.",
+      "bdrms": "4 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "One month FREE on select apartment homes for a limited time."
+    },
+    {
+      "id": 5,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-09-370x250.jpg",
+      "name": "Avalon at Mason Bay",
+      "price": "$1595.00/mon",
+      "size": "2200 sq ft.",
+      "bdrms": "4 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Avalon at Mission Bay located in San Francisco near the San Francisco Caltrain Station offers thoughtfully designed studio, 1, 2 and 3 bedroom apartments and town homes."
+    },
+    {
+      "id": 6,
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/home-img-10-370x250.jpg",
+      "name": "Bayside Village Apartments",
+      "price": "$2269.00/mon",
+      "size": "2200 sq ft.",
+      "bdrms": "4 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Pick your pleasure from a vantage point that puts all the best of the city's lively South Beach neighborhood within easy reach."
+    }
+  ],
+  "resources": [
+    {
+      "icon": "FaRegMessage",
+      "title": "MORE LISTINGS",
+      "description": "Check up to 40% more houses for sale. See pictures of your new life at a new place. See maps, markets, etc."
+    },
+    {
+      "icon": "IoIosStar",
+      "title": "TOP-RATED AGENTS",
+      "description": "All our real estate agents are professionals in your neighborhood, which are ready to help you find your new home."
+    },
+    {
+      "icon": "GiFamilyHouse",
+      "title": "HOME ESTIMATES",
+      "description": "Wanna know how much your new home will cost? See estimates for any neighborhood and check prices for similar homes."
+    }
+  ],
+  "services": [
+    {
+      "icon": "FaRegMessage",
+      "title": "FIND AN AGENT",
+      "description": "Our real estate agents are professional in everything they do. Just call our office or contact the agent you like via email or his/her social profile."
+    },
+    {
+      "icon": "IoIosStar",
+      "title": "PROPERTY MANAGEMENT",
+      "description": "We deal with different kinds of properties. No matter what you need - a house, an apartment or garage – you’ll find a good option on our site."
+    },
+    {
+      "icon": "GiFamilyHouse",
+      "title": "PROPERTY INSURANCE",
+      "description": "You can insure your property at our company immediately after buying or renting. Take care of the safety of your home and family."
+    },
+    {
+      "icon": "GiFamilyHouse",
+      "title": "HOME FOR SALE AND RENT",
+      "description": "Don’t have enough money at the moment to buy a house? We have good offers both for rent and purchase. So, every client will be satisfied with our services."
+    },
+    {
+      "icon": "GiFamilyHouse",
+      "title": "PARKING",
+      "description": "Our parking facilities are located within a minute walk from the properties we provide, and they all are equipped with 24/7 security."
+    },
+    {
+      "icon": "GiFamilyHouse",
+      "title": "COMFORTABLE LOCATIONS",
+      "description": "Our properties, apartments, and houses are situated in comfortable locations that allow our clients to easily select the proper house."
+    }
+  ],
+  "agents": [
+    {
+      "image": "https://images.pexels.com/photos/2422287/pexels-photo-2422287.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Janice Kudrow",
+      "title": "Diagnostic Radiographer"
+    },
+    {
+      "image": "https://images.pexels.com/photos/3206114/pexels-photo-3206114.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ibrahim Saddik",
+      "title": "Software Engineer"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1181475/pexels-photo-1181475.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Franklina Matthew",
+      "title": "CEO of Upland Ltd"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Iddris Mohammed",
+      "title": "Chief Engineer"
+    }
+  ],
+  "blogs": [
+    {
+      "image": "https://images.pexels.com/photos/3288103/pexels-photo-3288103.png?auto=compress&cs=tinysrgb&w=600",
+      "category": "NEWS",
+      "title": "7 important tips of buying a home",
+      "author": "Ibrahim Saddik",
+      "date": "4 days ago"
+    },
+    {
+      "image": "https://images.pexels.com/photos/1743555/pexels-photo-1743555.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "REAL ESTATE",
+      "title": "Useful habits for potential home buyers",
+      "author": "William Jill",
+      "date": "3 days ago"
+    },
+    {
+      "image": "https://images.pexels.com/photos/7018824/pexels-photo-7018824.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "REAL ESTATE",
+      "title": "10 signs your home will have a good resale value",
+      "author": "Abdul Rasheed",
+      "date": "7 days ago"
+    },
+    {
+      "image": "https://images.pexels.com/photos/4825718/pexels-photo-4825718.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "HOUSING",
+      "title": "Keeping a safe environment",
+      "author": "Abdul Rasheed",
+      "date": "7 days ago"
+    }
+  ],
+  "testimonials": [
+    {
+      "image": "https://livedemo00.template-help.com/wt_prod-18389/images/users/user-nicholas-lane-80x80.jpg",
+      "name": "Yaw Manu",
+      "testimony": "My family and I are thrilled with our new home. The entire process, from viewing properties to closing the deal, was seamless thanks to the expertise and dedication of the real estate team. We couldn't be happier with the outcome!"
+    },
+    {
+      "image": "https://images.pexels.com/photos/5717641/pexels-photo-5717641.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Emily Johnson",
+      "testimony": "Working with the real estate agents was an absolute pleasure. They took the time to understand my needs and preferences, ensuring that they presented properties that aligned perfectly with what I was looking for. I'm now settled into my dream home, and I couldn't be more grateful for their support throughout the process."
+    },
+    {
+      "image": "https://images.pexels.com/photos/5717641/pexels-photo-5717641.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Michael Brown",
+      "testimony": "I highly recommend this real estate agency to anyone in search of their perfect home. The team's professionalism and attention to detail are unmatched. They went above and beyond to ensure that I found a property that not only met but exceeded my expectations. Thank you for making my home buying experience truly unforgettable!"
+    },
+    {
+      "image": "https://images.pexels.com/photos/5717641/pexels-photo-5717641.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Michael Brown",
+      "testimony": "I highly recommend this real estate agency to anyone in search of their perfect home. The team's professionalism and attention to detail are unmatched. They went above and beyond to ensure that I found a property that not only met but exceeded my expectations. Thank you for making my home buying experience truly unforgettable!"
+    }
+  ],
+  "catalogProperties": [
+    {
+      "id": 1,
+      "name": "Luxury Beachfront Villa",
+      "mainImage": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/5570224/pexels-photo-5570224.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/15271519/pexels-photo-15271519/free-photo-of-interior-of-a-modern-bathroom-with-a-bathtub.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "5000 sqft",
+      "bdrms": "6 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "These Residences offer a unique opportunity to live in a national park setting and enjoy quiet neighborhoods, convenient location, beautiful open spaces, and outstanding recreational amenities that you won’t find anywhere else in the area.",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        },
+        {
+          "title": "Year Built",
+          "value": "1868"
+        },
+        {
+          "title": "Lot Size",
+          "value": "5.45"
+        },
+        {
+          "title": "Room Count",
+          "value": "5"
+        },
+        {
+          "title": "Roof Type",
+          "value": "Tile"
+        }
+      ],
+      "agent": {
+        "name": "Ibrahim Saddik",
+        "image": "https://images.pexels.com/photos/3206114/pexels-photo-3206114.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 24 244 6461",
+        "emailAddress": "abubakasaddik1@gmail.com"
+      },
+      "similar": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "name": "Modern City Apartment",
+      "mainImage": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/90319/pexels-photo-90319.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/4099388/pexels-photo-4099388.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2826787/pexels-photo-2826787.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/5417293/pexels-photo-5417293.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "1200 sqft",
+      "bdrms": "2 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "This property includes a wide variety of facilities that can make your dwelling in the picturesque area of Southern Los Angeles very comfortable. There is everything modern citizen may need, even the most up-to-date technologies that are organically integrated with all the communications of the house. If you are looking for a calm place to live, the Presidential Residences have something to offer you. With effective planning and additional amenities available as a part of the property, these apartments can give you an unprecedented level of comfort with a quick access to the airport, train station, and the city center..",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        },
+        {
+          "title": "Year Built",
+          "value": "1868"
+        },
+        {
+          "title": "Lot Size",
+          "value": "5.45"
+        },
+        {
+          "title": "Room Count",
+          "value": "5"
+        },
+        {
+          "title": "Roof Type",
+          "value": "Tile"
+        },
+        {
+          "title": "View Type",
+          "value": "Mountain"
+        }
+      ],
+      "agent": {
+        "name": "Janice Kudrow",
+        "image": "https://images.pexels.com/photos/2422287/pexels-photo-2422287.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 50 369 9012",
+        "emailAddress": "janice@immovables.com"
+      },
+      "similar": [4, 5, 6]
+    },
+    {
+      "id": 3,
+      "name": "Cozy Mountain Cabin",
+      "mainImage": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/90317/pexels-photo-90317.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/6480707/pexels-photo-6480707.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/6045040/pexels-photo-6045040.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3965520/pexels-photo-3965520.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "1500 sqft",
+      "bdrms": "3 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "This property includes a wide variety of facilities that can make your dwelling in the picturesque area of Southern Los Angeles very comfortable. There is everything modern citizen may need, even the most up-to-date technologies that are organically integrated with all the communications of the house. If you are looking for a calm place to live, the Presidential Residences have something to offer you. With effective planning and additional amenities available as a part of the property, these apartments can give you an unprecedented level of comfort with a quick access to the airport, train station, and the city center.",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        },
+        {
+          "title": "Lot Size",
+          "value": "5.45"
+        },
+        {
+          "title": "Room Count",
+          "value": "5"
+        },
+        {
+          "title": "Roof Type",
+          "value": "Tile"
+        },
+        {
+          "title": "View Type",
+          "value": "Mountain"
+        }
+      ],
+      "agent": {
+        "name": "Franklina Matthew",
+        "image": "https://images.pexels.com/photos/1181475/pexels-photo-1181475.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 50 369 9012",
+        "emailAddress": "franklina@immovables.com"
+      },
+      "similar": [1, 2, 3]
+    },
+    {
+      "id": 4,
+      "name": "Rustic Farmhouse",
+      "mainImage": "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1358900/pexels-photo-1358900.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/533157/pexels-photo-533157.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/210687/pexels-photo-210687.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "3000 sqft",
+      "bdrms": "4 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Experience rustic charm in this beautifully renovated farmhouse. Surrounded by rolling hills and lush landscapes, it offers a tranquil escape from the hustle and bustle of city life.",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        }
+      ],
+      "agent": {
+        "name": "Franklina Matthew",
+        "image": "https://images.pexels.com/photos/1181475/pexels-photo-1181475.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 50 369 9012",
+        "emailAddress": "franklina@immovables.com"
+      },
+      "similar": [4, 5, 6]
+    },
+    {
+      "id": 5,
+      "name": "Luxury Penthouse Suite",
+      "mainImage": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/279648/pexels-photo-279648.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1910472/pexels-photo-1910472.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1909791/pexels-photo-1909791.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "4000 sqft",
+      "bdrms": "3 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Live the high life in this stunning penthouse suite. With luxurious finishes, panoramic views, and exclusive amenities, it epitomizes urban sophistication.",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        }
+      ],
+      "agent": {
+        "name": "Ibrahim Saddik",
+        "image": "https://images.pexels.com/photos/3206114/pexels-photo-3206114.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 24 244 6461",
+        "emailAddress": "abubakasaddik1@gmail.com"
+      },
+      "similar": [1, 2, 3]
+    },
+    {
+      "id": 6,
+      "name": "Seaside Cottage",
+      "mainImage": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "otherImages": [
+        "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3315291/pexels-photo-3315291.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2207894/pexels-photo-2207894.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2398375/pexels-photo-2398375.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "price": "1199.00/mon",
+      "size": "2000 sqft",
+      "bdrms": "2 bedrooms",
+      "bthrms": "2 bathrooms",
+      "description": "Experience coastal living in this charming seaside cottage. Relax on the veranda, stroll along the beach, and soak in the beauty of the ocean.",
+      "extraFeatures": [
+        {
+          "title": "Features",
+          "value": "Lawn, Sprinkler System, Marble Floors"
+        },
+        {
+          "title": "MLS Listing ID",
+          "value": "12345678"
+        },
+        {
+          "title": "Parking Type",
+          "value": "Garage-attached"
+        }
+      ],
+      "agent": {
+        "name": "Ibrahim Saddik",
+        "image": "https://images.pexels.com/photos/3206114/pexels-photo-3206114.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "phoneNumber": "+233 24 244 6461",
+        "emailAddress": "abubakasaddik1@gmail.com"
+      },
+      "similar": [4, 5, 6]
+    }
+  ]
+}
